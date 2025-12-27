@@ -1,27 +1,46 @@
-# Data Engineering & Analytics Program Manager
+# Jeremy Manalo
+### Data Engineering & Analytics Program Manager
+[LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your-email@example.com)
+
+## Professional Summary
+Dedicated to transforming complex datasets into actionable insights through robust data engineering and statistical modeling. Specialized in bridging the gap between technical infrastructure and business strategy.
 
 ## Core Skills
-- Languages: Python (Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn), SQL, R, RStudio.
-- Cloud Providers: Google Cloud Platform (GCP), Amazon Web Services (AWS)
-- Technologies: Google BigQuery, Amazon Redshift, Amazon S3, AWS Glue, Amazon EMR, Power BI, Tableau, Looker Studio, Microsoft 365, Google Workspace, Sharepoint, Snowflake, PLX
-- Frameworks: ETL/ELT, Data Warehousing, Business Intelligence (BI) Strategy, Marketing Analytics, Supply Chain Analytics, Program Management, Reporting & Analysis
-- Analytical Techniques: Statistical Analysis, Root Cause Analysis, Time Series Analysis, Forecasting, Data Mining, ROI Modeling, Big Data Analytics
 
-## Education
-- M.S., Business Analytics | California State University - East Bay (_December 2024_)
-- B.S., Information Technology | California State University - East Bay (_January 2017_)
-- A.S., Math and Science | San Joaquin Delta College (_Graduated with Honors_)
-- A.A., Business | San Joaquin Delta College (_Graduated with Honors_)
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (`Pandas`, `NumPy`, `Scikit-learn`), SQL, R, RStudio |
+| **Cloud Infrastructure** | Google Cloud Platform (GCP), Amazon Web Services (AWS) |
+| **Data Engineering** | BigQuery, Redshift, S3, AWS Glue, EMR, Snowflake, ETL/ELT |
+| **Business Intelligence** | Tableau, Power BI, Looker Studio, PLX, Reporting & Analysis |
+| **Analytical Methods** | Statistical Analysis, Time Series Forecasting, ROI Modeling, Root Cause Analysis |
 
 ## Work Experience
-- Data Engineering & Analytics Program Manager @ ServiceNow (via Pinkerton) | _Feb 2025 - Present_
-- Data Analyst II @ Google (via Astreya | _Aug 2021 - Feb 2025_
-- Data Analyst II @ Meta (via Milestone Technologies | _Jun 2019 - Aug 2021_
-- Data Analyst @ Jefferson School District | _Dec 2017 - Oct 2018_
+
+* **ServiceNow** (via Pinkerton) | **Data Engineering & Analytics Program Manager** *Feb 2025 – Present*
+
+* **Google** (via Astreya) | **Data Analyst II** *Aug 2021 – Feb 2025*
+
+* **Meta** (via Milestone Technologies) | **Data Analyst II** *Jun 2019 – Aug 2021*
+
+* **Jefferson School District** | **Data Analyst** *Dec 2017 – Oct 2018*
+
+## Education
+
+#### **California State University - East Bay**
+* **M.S., Business Analytics** | *December 2024*
+* **B.S., Information Technology** | *January 2017*
+
+#### **San Joaquin Delta College**
+* **A.S., Math and Science** | *Graduated with Honors*
+* **A.A., Business** | *Graduated with Honors*
 
 ## Certificates
-- Google Advanced Data Analytics | Coursera
-- Google Business Intelligence Specialization | Coursera
-- Google Data Analytics Specialization | Coursera
 
----
+* **Google Advanced Data Analytics** | *Coursera*
+* **Google Business Intelligence Specialization** | *Coursera*
+* **Google Data Analytics Specialization** | *Coursera*
+
+## Featured Projects
+* **[Project Title 1](https://github.com/jeremy-f-manalo/portfolio-link)** – A brief description of the impact (e.g., Automated ETL pipelines using Python and AWS).
+* **[Project Title 2](https://github.com/jeremy-f-manalo/portfolio-link)** – Description of statistical analysis or ROI modeling performed.
