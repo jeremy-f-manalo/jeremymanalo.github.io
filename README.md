@@ -26,22 +26,32 @@
 </table>
 
 ## Education
-- M.S., Business Analytics | California State University - East Bay (_December 2024_)
-- B.S., Information Technology | California State University - East Bay (_January 2017_)
-- A.S., Math and Science | San Joaquin Delta College (_January 2015_)
-- A.A., Business | San Joaquin Delta College (_January 2015_)
+
+<table>
+  <tr>
+    <td width="30%"><b>M.S., Business Analytics</b></td>
+    <td>California State University - East Bay (2024)</td>
+  </tr>
+  <tr>
+    <td><b>B.S., Information Technology</b></td>
+    <td>California State University - East Bay (2017)</td>
+  </tr>
+  <tr>
+    <td><b>A.S., Math and Science</b></td>
+    <td>San Joaquin Delta College (2015)</td>
+  </tr>
+  <tr>
+    <td><b>A.A., Business</b></td>
+    <td>San Joaquin Delta College (2015)</td>
+  </tr>
+</table>
 
 ## Work Experience
-**Data Engineering & Analytics Program Manager @ ServiceNow (via Pinkerton) | _Feb 2025 - Present_**
+**Data Engineering & Analytics Program Manager @ ServiceNow (via Pinkerton) | _Feb 2025 - Present_)**
 <br>
-**Data Analyst II @ Google (via Astreya | _Aug 2021 - Feb 2025_**
+**Data Analyst II @ Google (via Astreya | _Aug 2021 - Feb 2025_)**
 <br>
-**Data Analyst II @ Meta (via Milestone Technologies | _Jun 2019 - Aug 2021_**
+**Data Analyst II @ Meta (via Milestone Technologies | _Jun 2019 - Aug 2021_)**
 <br>
-**Data Analyst @ Jefferson School District | _Dec 2017 - Oct 2018_**
+**Data Analyst @ Jefferson School District | _Dec 2017 - Oct 2018_)**
 <br>
-
-## Certificates
-- Google Advanced Data Analytics | Coursera
-- Google Business Intelligence Specialization | Coursera
-- Google Data Analytics Specialization | Coursera
