@@ -17,10 +17,13 @@
 - A.A., Business | San Joaquin Delta College (_January 2015_)
 
 ## Work Experience
-- Data Engineering & Analytics Program Manager @ ServiceNow (via Pinkerton) | _Feb 2025 - Present_
-- Data Analyst II @ Google (via Astreya | _Aug 2021 - Feb 2025_
-- Data Analyst II @ Meta (via Milestone Technologies | _Jun 2019 - Aug 2021_
-- Data Analyst @ Jefferson School District | _Dec 2017 - Oct 2018_
+**Data Engineering & Analytics Program Manager @ ServiceNow (via Pinkerton) | _Feb 2025 - Present_**
+
+**Data Analyst II @ Google (via Astreya | _Aug 2021 - Feb 2025_**
+
+**Data Analyst II @ Meta (via Milestone Technologies | _Jun 2019 - Aug 2021_**
+
+**Data Analyst @ Jefferson School District | _Dec 2017 - Oct 2018_**
 
 ## Certificates
 - Google Advanced Data Analytics | Coursera
